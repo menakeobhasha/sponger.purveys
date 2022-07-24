@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\sponger\bin\Debug\netcoreapp3.1\sponger.purveys.deps.json
+\\Mac\Home\Desktop\sponger\bin\Debug\netcoreapp3.1\sponger.purveys.dll
+\\Mac\Home\Desktop\sponger\bin\Debug\netcoreapp3.1\sponger.purveys.pdb
+\\Mac\Home\Desktop\sponger\obj\Debug\netcoreapp3.1\sponger.purveys.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\sponger\obj\Debug\netcoreapp3.1\sponger.purveys.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\sponger\obj\Debug\netcoreapp3.1\sponger.purveys.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\sponger\obj\Debug\netcoreapp3.1\sponger.purveys.AssemblyInfo.cs
+\\Mac\Home\Desktop\sponger\obj\Debug\netcoreapp3.1\sponger.purveys.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\sponger\obj\Debug\netcoreapp3.1\sponger.purveys.dll
+\\Mac\Home\Desktop\sponger\obj\Debug\netcoreapp3.1\sponger.purveys.pdb

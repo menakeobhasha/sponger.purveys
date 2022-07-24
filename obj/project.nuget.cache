@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OikPJMlv+4QGI8OBkuc4MJh7kogCpqOjpfsjtLpdf64ZQMyXovMY1wJasASxZIFR77qB7+InGxR+yH+Foy42Aw==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\sponger\\sponger.purveys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

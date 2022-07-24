@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sponger.purveys/1.0.0": {
+        "runtime": {
+          "sponger.purveys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sponger.purveys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
